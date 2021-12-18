@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-18T22:18:51.216Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="wZnshqiK4o2hbBdnh3Or" version="16.0.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-12-18T22:26:17.371Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="oh8y4DlvWZ7O3ocd3M_i" version="16.0.0" type="github" pages="4">
   <diagram id="uR-17lQHcimk3arvSshS" name="Navigation">
     <mxGraphModel dx="1202" dy="676" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -435,6 +435,119 @@
         </mxCell>
         <mxCell id="jpx2o7PiYlmwGItEzn6v-11" value="&lt;p&gt;&lt;span style=&quot;font-size: 10px ; font-weight: normal&quot;&gt;Lipsum dolor sit amet.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=0;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;fillStyle=auto;fontSize=10;fontColor=#000000;align=left;verticalAlign=middle;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="eBy977zQMv-9lksJRBus-1">
           <mxGeometry x="655" y="1073" width="77" height="33" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="All Rooms" id="onr-1ZTDitO9CLDpe5Zd">
+    <mxGraphModel dx="1265" dy="712" grid="0" gridSize="21" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="gsvyVYYMCF2GLXNTLzgV-0" />
+        <mxCell id="gsvyVYYMCF2GLXNTLzgV-1" parent="gsvyVYYMCF2GLXNTLzgV-0" />
+        <mxCell id="gsvyVYYMCF2GLXNTLzgV-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#f5f5f5;sketch=1;fontSize=10;fontColor=#333333;align=left;verticalAlign=middle;fillStyle=auto;strokeColor=#666666;glass=0;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="gsvyVYYMCF2GLXNTLzgV-1">
+          <mxGeometry x="-0.5" y="5" width="827" height="291" as="geometry" />
+        </mxCell>
+        <mxCell id="gsvyVYYMCF2GLXNTLzgV-3" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#f5f5f5;sketch=1;fontSize=10;fontColor=#333333;align=left;verticalAlign=middle;fillStyle=auto;strokeColor=#666666;glass=0;shadow=0;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="gsvyVYYMCF2GLXNTLzgV-1">
+          <mxGeometry x="547" y="357" width="162" height="227" as="geometry" />
+        </mxCell>
+        <mxCell id="gsvyVYYMCF2GLXNTLzgV-4" value="&lt;h1&gt;Superior Room&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;fillStyle=auto;fontSize=10;fontColor=#000000;align=left;verticalAlign=middle;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="gsvyVYYMCF2GLXNTLzgV-1">
+          <mxGeometry x="336" y="357" width="231" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="gsvyVYYMCF2GLXNTLzgV-5" value="Do eiusmod tempor incididunt ut labore et dolore magna aliqua." style="text;strokeColor=none;fillColor=none;spacing=5;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;fillStyle=auto;fontSize=10;fontColor=#000000;align=left;verticalAlign=middle;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="gsvyVYYMCF2GLXNTLzgV-1">
+          <mxGeometry x="336" y="411" width="174" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="gsvyVYYMCF2GLXNTLzgV-6" value="&lt;h1 style=&quot;font-size: 32px&quot;&gt;Rooms &amp;amp; Suites&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=0;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;fillStyle=auto;fontSize=32;fontColor=#000000;align=center;verticalAlign=middle;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="gsvyVYYMCF2GLXNTLzgV-1">
+          <mxGeometry x="207" y="142" width="414" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="gsvyVYYMCF2GLXNTLzgV-7" value="BOOK A ROOM" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;fillStyle=auto;fontSize=12;fontColor=#000000;strokeWidth=0;fillColor=default;gradientColor=none;align=center;verticalAlign=middle;fontStyle=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="gsvyVYYMCF2GLXNTLzgV-1">
+          <mxGeometry x="654" y="45" width="120" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="gsvyVYYMCF2GLXNTLzgV-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-3/50/filter-circle-menu-text-form-128.png;rounded=0;shadow=0;glass=0;sketch=1;fillStyle=auto;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontSize=32;fontColor=#000000;strokeWidth=0;fillColor=default;gradientColor=none;" vertex="1" parent="gsvyVYYMCF2GLXNTLzgV-1">
+          <mxGeometry x="35" y="50" width="32" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="gsvyVYYMCF2GLXNTLzgV-9" value="" style="group" vertex="1" connectable="0" parent="gsvyVYYMCF2GLXNTLzgV-1">
+          <mxGeometry x="354" y="45" width="120" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="gsvyVYYMCF2GLXNTLzgV-10" value="LUXHo" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;fillStyle=auto;fontSize=15;fontColor=#000000;strokeWidth=0;fillColor=none;gradientColor=none;align=center;verticalAlign=middle;fontStyle=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;strokeColor=none;" vertex="1" parent="gsvyVYYMCF2GLXNTLzgV-9">
+          <mxGeometry width="120" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="gsvyVYYMCF2GLXNTLzgV-11" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;dashed=1;dashPattern=1 4;sketch=0;fillStyle=auto;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontSize=15;fontColor=#000000;strokeWidth=1;fillColor=#000000;gradientColor=none;align=center;verticalAlign=middle;strokeColor=none;" vertex="1" parent="gsvyVYYMCF2GLXNTLzgV-9">
+          <mxGeometry x="77" y="15" width="8" height="2" as="geometry" />
+        </mxCell>
+        <mxCell id="gsvyVYYMCF2GLXNTLzgV-12" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#CCCCCC;" edge="1" parent="gsvyVYYMCF2GLXNTLzgV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="294" y="895" as="sourcePoint" />
+            <mxPoint x="294" y="357" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsvyVYYMCF2GLXNTLzgV-13" value="Superior Room" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;fontStyle=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="gsvyVYYMCF2GLXNTLzgV-1">
+          <mxGeometry x="122" y="372.5" width="125" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="gsvyVYYMCF2GLXNTLzgV-14" value="" style="group" vertex="1" connectable="0" parent="gsvyVYYMCF2GLXNTLzgV-1">
+          <mxGeometry x="337" y="528" width="79" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="gsvyVYYMCF2GLXNTLzgV-15" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;fillStyle=auto;fontSize=16;fontColor=#333333;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;strokeColor=#CCCCCC;sketch=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="gsvyVYYMCF2GLXNTLzgV-14">
+          <mxGeometry width="46" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="gsvyVYYMCF2GLXNTLzgV-16" value="" style="endArrow=classic;html=1;sketch=1;fontSize=16;fontColor=#000000;strokeColor=#CCCCCC;curved=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" edge="1" parent="gsvyVYYMCF2GLXNTLzgV-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="22" y="22.58000000000004" as="sourcePoint" />
+            <mxPoint x="79" y="22.58000000000004" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsvyVYYMCF2GLXNTLzgV-18" value="&lt;font color=&quot;#cccccc&quot;&gt;Deluxe Room&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;fontStyle=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="gsvyVYYMCF2GLXNTLzgV-1">
+          <mxGeometry x="122" y="406" width="111" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="gsvyVYYMCF2GLXNTLzgV-19" value="&lt;font color=&quot;#cccccc&quot;&gt;Premium Superior&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;fontStyle=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="gsvyVYYMCF2GLXNTLzgV-1">
+          <mxGeometry x="122" y="438.5" width="147" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="gsvyVYYMCF2GLXNTLzgV-20" value="&lt;font color=&quot;#cccccc&quot;&gt;Junior Suite&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;fontStyle=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="gsvyVYYMCF2GLXNTLzgV-1">
+          <mxGeometry x="122" y="472" width="99" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="gsvyVYYMCF2GLXNTLzgV-38" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;fillStyle=auto;fontSize=16;strokeWidth=1;align=left;verticalAlign=middle;sketch=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fillColor=none;dashed=1;dashPattern=1 4;" vertex="1" parent="gsvyVYYMCF2GLXNTLzgV-1">
+          <mxGeometry x="338" y="469" width="18" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="gsvyVYYMCF2GLXNTLzgV-39" value="Dolor sit amet" style="text;strokeColor=none;fillColor=none;spacing=0;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;fillStyle=auto;fontSize=10;fontColor=#000000;align=left;verticalAlign=middle;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="gsvyVYYMCF2GLXNTLzgV-1">
+          <mxGeometry x="371" y="461.5" width="42" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="gsvyVYYMCF2GLXNTLzgV-40" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;fillStyle=auto;fontSize=16;strokeWidth=1;align=left;verticalAlign=middle;sketch=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fillColor=none;dashed=1;dashPattern=1 4;" vertex="1" parent="gsvyVYYMCF2GLXNTLzgV-1">
+          <mxGeometry x="421" y="469" width="18" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="gsvyVYYMCF2GLXNTLzgV-41" value="Conse&#xa;ctetur" style="text;strokeColor=none;fillColor=none;spacing=0;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;fillStyle=auto;fontSize=10;fontColor=#000000;align=left;verticalAlign=middle;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="gsvyVYYMCF2GLXNTLzgV-1">
+          <mxGeometry x="454" y="461.5" width="42" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="gsvyVYYMCF2GLXNTLzgV-42" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#f5f5f5;sketch=1;fontSize=10;fontColor=#333333;align=left;verticalAlign=middle;fillStyle=auto;strokeColor=#666666;glass=0;shadow=0;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="gsvyVYYMCF2GLXNTLzgV-1">
+          <mxGeometry x="548" y="636" width="162" height="227" as="geometry" />
+        </mxCell>
+        <mxCell id="gsvyVYYMCF2GLXNTLzgV-43" value="&lt;h1&gt;Deluxe Room&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;fillStyle=auto;fontSize=10;fontColor=#000000;align=left;verticalAlign=middle;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="gsvyVYYMCF2GLXNTLzgV-1">
+          <mxGeometry x="337" y="636" width="231" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="gsvyVYYMCF2GLXNTLzgV-44" value="Do eiusmod tempor incididunt ut labore et dolore magna aliqua." style="text;strokeColor=none;fillColor=none;spacing=5;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;fillStyle=auto;fontSize=10;fontColor=#000000;align=left;verticalAlign=middle;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="gsvyVYYMCF2GLXNTLzgV-1">
+          <mxGeometry x="337" y="690" width="174" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="gsvyVYYMCF2GLXNTLzgV-45" value="" style="group" vertex="1" connectable="0" parent="gsvyVYYMCF2GLXNTLzgV-1">
+          <mxGeometry x="338" y="807" width="79" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="gsvyVYYMCF2GLXNTLzgV-46" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;fillStyle=auto;fontSize=16;fontColor=#333333;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;strokeColor=#CCCCCC;sketch=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="gsvyVYYMCF2GLXNTLzgV-45">
+          <mxGeometry width="46" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="gsvyVYYMCF2GLXNTLzgV-47" value="" style="endArrow=classic;html=1;sketch=1;fontSize=16;fontColor=#000000;strokeColor=#CCCCCC;curved=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" edge="1" parent="gsvyVYYMCF2GLXNTLzgV-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="22" y="22.58000000000004" as="sourcePoint" />
+            <mxPoint x="79" y="22.58000000000004" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsvyVYYMCF2GLXNTLzgV-48" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;fillStyle=auto;fontSize=16;strokeWidth=1;align=left;verticalAlign=middle;sketch=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fillColor=none;dashed=1;dashPattern=1 4;" vertex="1" parent="gsvyVYYMCF2GLXNTLzgV-1">
+          <mxGeometry x="339" y="748" width="18" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="gsvyVYYMCF2GLXNTLzgV-49" value="Dolor sit amet" style="text;strokeColor=none;fillColor=none;spacing=0;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;fillStyle=auto;fontSize=10;fontColor=#000000;align=left;verticalAlign=middle;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="gsvyVYYMCF2GLXNTLzgV-1">
+          <mxGeometry x="372" y="740.5" width="42" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="gsvyVYYMCF2GLXNTLzgV-50" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;fillStyle=auto;fontSize=16;strokeWidth=1;align=left;verticalAlign=middle;sketch=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fillColor=none;dashed=1;dashPattern=1 4;" vertex="1" parent="gsvyVYYMCF2GLXNTLzgV-1">
+          <mxGeometry x="422" y="748" width="18" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="gsvyVYYMCF2GLXNTLzgV-51" value="Conse&#xa;ctetur" style="text;strokeColor=none;fillColor=none;spacing=0;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;fillStyle=auto;fontSize=10;fontColor=#000000;align=left;verticalAlign=middle;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="gsvyVYYMCF2GLXNTLzgV-1">
+          <mxGeometry x="455" y="740.5" width="42" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
