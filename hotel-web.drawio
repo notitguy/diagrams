@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-18T22:11:15.903Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="C-EasSvoc-PiL_71jR9w" version="16.0.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-12-18T22:16:46.924Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="a73OEQs625ALazNbW7iz" version="16.0.0" type="github" pages="3">
   <diagram id="uR-17lQHcimk3arvSshS" name="Navigation">
     <mxGraphModel dx="1202" dy="676" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -376,8 +376,29 @@
         <mxCell id="eBy977zQMv-9lksJRBus-48" value="&lt;p&gt;&lt;span style=&quot;font-size: 10px ; font-weight: normal ; line-height: 1&quot;&gt;Eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;fillStyle=auto;fontSize=10;fontColor=#000000;align=left;verticalAlign=middle;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="eBy977zQMv-9lksJRBus-1">
           <mxGeometry x="336" y="487" width="147" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="eBy977zQMv-9lksJRBus-49" value="Location" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;fontStyle=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="eBy977zQMv-9lksJRBus-1">
-          <mxGeometry x="122" y="417" width="80" height="23" as="geometry" />
+        <mxCell id="eBy977zQMv-9lksJRBus-49" value="&lt;font color=&quot;#cccccc&quot;&gt;Location&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;fontStyle=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="eBy977zQMv-9lksJRBus-1">
+          <mxGeometry x="122" y="406" width="80" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="eBy977zQMv-9lksJRBus-50" value="&lt;font color=&quot;#cccccc&quot;&gt;Facilities&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;fontStyle=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="eBy977zQMv-9lksJRBus-1">
+          <mxGeometry x="122" y="438.5" width="81" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="eBy977zQMv-9lksJRBus-51" value="&lt;font color=&quot;#cccccc&quot;&gt;Plan Your Stay&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;fontStyle=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="eBy977zQMv-9lksJRBus-1">
+          <mxGeometry x="122" y="472" width="122" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="eBy977zQMv-9lksJRBus-52" value="&lt;h1&gt;Excellent Location&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;fillStyle=auto;fontSize=10;fontColor=#000000;align=left;verticalAlign=middle;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="eBy977zQMv-9lksJRBus-1">
+          <mxGeometry x="336" y="688" width="231" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="eBy977zQMv-9lksJRBus-53" value="&lt;p&gt;&lt;span style=&quot;font-size: 10px ; font-weight: normal ; line-height: 1&quot;&gt;Eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;fillStyle=auto;fontSize=10;fontColor=#000000;align=left;verticalAlign=middle;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="eBy977zQMv-9lksJRBus-1">
+          <mxGeometry x="336" y="735" width="304" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="eBy977zQMv-9lksJRBus-54" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#f5f5f5;sketch=1;fontSize=10;fontColor=#333333;align=left;verticalAlign=middle;fillStyle=auto;strokeColor=#666666;glass=0;shadow=0;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="eBy977zQMv-9lksJRBus-1">
+          <mxGeometry x="338" y="799" width="378" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="eBy977zQMv-9lksJRBus-55" value="&lt;h1&gt;Facilities at Hotel Luxho&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;fillStyle=auto;fontSize=10;fontColor=#000000;align=left;verticalAlign=middle;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="eBy977zQMv-9lksJRBus-1">
+          <mxGeometry x="336" y="925" width="250" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="eBy977zQMv-9lksJRBus-56" value="&lt;p&gt;&lt;span style=&quot;font-size: 10px ; font-weight: normal ; line-height: 1&quot;&gt;Eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;fillStyle=auto;fontSize=10;fontColor=#000000;align=left;verticalAlign=middle;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="eBy977zQMv-9lksJRBus-1">
+          <mxGeometry x="336" y="972" width="304" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
