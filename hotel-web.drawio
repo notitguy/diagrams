@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-18T23:36:02.362Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="oGX7TWCfNj28lxkDF0hB" version="16.0.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-12-18T23:37:51.616Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="CQa1PcueybQ3GLmex63v" version="16.0.0" type="github" pages="5">
   <diagram id="uR-17lQHcimk3arvSshS" name="Navigation">
     <mxGraphModel dx="1265" dy="712" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -284,8 +284,8 @@
             <mxPoint x="150" y="3136.34" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T-akW1bcsKP5mtTUpWGI-33" value="&lt;h1 style=&quot;font-size: 32px&quot;&gt;Perfect Prague Stay in a Brand New Hotel&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=0;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;fillStyle=auto;fontSize=32;fontColor=#000000;align=left;verticalAlign=middle;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" parent="ppsySPgMBGaZyB0dhLYi-1" vertex="1">
-          <mxGeometry x="133" y="159.5" width="334" height="107" as="geometry" />
+        <mxCell id="T-akW1bcsKP5mtTUpWGI-33" value="&lt;h1 style=&quot;font-size: 32px&quot;&gt;Perfect Prague Stay in the New Hotel Luxho&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=0;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;fillStyle=auto;fontSize=32;fontColor=#000000;align=left;verticalAlign=middle;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" parent="ppsySPgMBGaZyB0dhLYi-1" vertex="1">
+          <mxGeometry x="133" y="159.5" width="359" height="107" as="geometry" />
         </mxCell>
         <mxCell id="T-akW1bcsKP5mtTUpWGI-34" value="BOOK A ROOM" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;fillStyle=auto;fontSize=12;fontColor=#000000;strokeWidth=0;fillColor=default;gradientColor=none;align=center;verticalAlign=middle;fontStyle=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" parent="ppsySPgMBGaZyB0dhLYi-1" vertex="1">
           <mxGeometry x="654" y="45" width="120" height="42" as="geometry" />
