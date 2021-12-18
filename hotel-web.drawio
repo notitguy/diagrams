@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-18T22:16:46.924Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="a73OEQs625ALazNbW7iz" version="16.0.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-12-18T22:18:51.216Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="wZnshqiK4o2hbBdnh3Or" version="16.0.0" type="github" pages="3">
   <diagram id="uR-17lQHcimk3arvSshS" name="Navigation">
     <mxGraphModel dx="1202" dy="676" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -397,8 +397,44 @@
         <mxCell id="eBy977zQMv-9lksJRBus-55" value="&lt;h1&gt;Facilities at Hotel Luxho&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;fillStyle=auto;fontSize=10;fontColor=#000000;align=left;verticalAlign=middle;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="eBy977zQMv-9lksJRBus-1">
           <mxGeometry x="336" y="925" width="250" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="eBy977zQMv-9lksJRBus-56" value="&lt;p&gt;&lt;span style=&quot;font-size: 10px ; font-weight: normal ; line-height: 1&quot;&gt;Eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;fillStyle=auto;fontSize=10;fontColor=#000000;align=left;verticalAlign=middle;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="eBy977zQMv-9lksJRBus-1">
-          <mxGeometry x="336" y="972" width="304" height="55" as="geometry" />
+        <mxCell id="eBy977zQMv-9lksJRBus-56" value="&lt;p&gt;&lt;span style=&quot;font-size: 10px ; font-weight: normal ; line-height: 1&quot;&gt;Gano iusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;fillStyle=auto;fontSize=10;fontColor=#000000;align=left;verticalAlign=middle;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="eBy977zQMv-9lksJRBus-1">
+          <mxGeometry x="336" y="972" width="231" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jpx2o7PiYlmwGItEzn6v-0" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;fillStyle=auto;fontSize=16;strokeWidth=1;align=left;verticalAlign=middle;sketch=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fillColor=none;dashed=1;dashPattern=1 4;" vertex="1" parent="eBy977zQMv-9lksJRBus-1">
+          <mxGeometry x="336" y="1038" width="22" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="jpx2o7PiYlmwGItEzn6v-1" value="&lt;p&gt;&lt;span style=&quot;font-size: 10px ; font-weight: normal&quot;&gt;Lipsum dolor sit amet.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=0;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;fillStyle=auto;fontSize=10;fontColor=#000000;align=left;verticalAlign=middle;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="eBy977zQMv-9lksJRBus-1">
+          <mxGeometry x="370" y="1027" width="77" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="jpx2o7PiYlmwGItEzn6v-2" value="&lt;p&gt;Consectetur adipisicing elit.&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=0;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;fillStyle=auto;fontSize=10;fontColor=#000000;align=left;verticalAlign=middle;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="eBy977zQMv-9lksJRBus-1">
+          <mxGeometry x="512.5" y="1027" width="77" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="jpx2o7PiYlmwGItEzn6v-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;fillStyle=auto;fontSize=16;strokeWidth=1;align=left;verticalAlign=middle;sketch=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fillColor=none;dashed=1;dashPattern=1 4;" vertex="1" parent="eBy977zQMv-9lksJRBus-1">
+          <mxGeometry x="479" y="1038" width="22" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="jpx2o7PiYlmwGItEzn6v-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;fillStyle=auto;fontSize=16;strokeWidth=1;align=left;verticalAlign=middle;sketch=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fillColor=none;dashed=1;dashPattern=1 4;" vertex="1" parent="eBy977zQMv-9lksJRBus-1">
+          <mxGeometry x="621" y="1040" width="22" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="jpx2o7PiYlmwGItEzn6v-5" value="&lt;p&gt;&lt;span style=&quot;font-size: 10px ; font-weight: normal&quot;&gt;Lipsum dolor sit amet.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=0;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;fillStyle=auto;fontSize=10;fontColor=#000000;align=left;verticalAlign=middle;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="eBy977zQMv-9lksJRBus-1">
+          <mxGeometry x="655" y="1029" width="77" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="jpx2o7PiYlmwGItEzn6v-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;fillStyle=auto;fontSize=16;strokeWidth=1;align=left;verticalAlign=middle;sketch=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fillColor=none;dashed=1;dashPattern=1 4;" vertex="1" parent="eBy977zQMv-9lksJRBus-1">
+          <mxGeometry x="336" y="1082" width="22" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="jpx2o7PiYlmwGItEzn6v-7" value="&lt;p&gt;&lt;span style=&quot;font-size: 10px ; font-weight: normal&quot;&gt;Lipsum dolor sit amet.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=0;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;fillStyle=auto;fontSize=10;fontColor=#000000;align=left;verticalAlign=middle;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="eBy977zQMv-9lksJRBus-1">
+          <mxGeometry x="370" y="1071" width="77" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="jpx2o7PiYlmwGItEzn6v-8" value="&lt;p&gt;Consectetur adipisicing elit.&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=0;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;fillStyle=auto;fontSize=10;fontColor=#000000;align=left;verticalAlign=middle;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="eBy977zQMv-9lksJRBus-1">
+          <mxGeometry x="512.5" y="1071" width="77" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="jpx2o7PiYlmwGItEzn6v-9" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;fillStyle=auto;fontSize=16;strokeWidth=1;align=left;verticalAlign=middle;sketch=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fillColor=none;dashed=1;dashPattern=1 4;" vertex="1" parent="eBy977zQMv-9lksJRBus-1">
+          <mxGeometry x="479" y="1082" width="22" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="jpx2o7PiYlmwGItEzn6v-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;fillStyle=auto;fontSize=16;strokeWidth=1;align=left;verticalAlign=middle;sketch=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fillColor=none;dashed=1;dashPattern=1 4;" vertex="1" parent="eBy977zQMv-9lksJRBus-1">
+          <mxGeometry x="621" y="1084" width="22" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="jpx2o7PiYlmwGItEzn6v-11" value="&lt;p&gt;&lt;span style=&quot;font-size: 10px ; font-weight: normal&quot;&gt;Lipsum dolor sit amet.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=0;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;fillStyle=auto;fontSize=10;fontColor=#000000;align=left;verticalAlign=middle;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="eBy977zQMv-9lksJRBus-1">
+          <mxGeometry x="655" y="1073" width="77" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
