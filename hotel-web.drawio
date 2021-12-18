@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-18T23:10:29.658Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="hpmrZOlEhglSWhkQNVu5" version="16.0.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-12-18T23:25:41.113Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="0fuWJbFw1w9OhE9nKOfG" version="16.0.0" type="github" pages="5">
   <diagram id="uR-17lQHcimk3arvSshS" name="Navigation">
     <mxGraphModel dx="1202" dy="676" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -578,8 +578,8 @@
         <mxCell id="l-vPg-0R3UOiEQVzqmQA-3" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#f5f5f5;sketch=1;fontSize=10;fontColor=#333333;align=left;verticalAlign=middle;fillStyle=auto;strokeColor=#666666;glass=0;shadow=0;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="l-vPg-0R3UOiEQVzqmQA-1">
           <mxGeometry x="547" y="364.5" width="162" height="227" as="geometry" />
         </mxCell>
-        <mxCell id="l-vPg-0R3UOiEQVzqmQA-4" value="&lt;h1&gt;Ideal room for couples&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;fillStyle=auto;fontSize=10;fontColor=#000000;align=left;verticalAlign=middle;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="l-vPg-0R3UOiEQVzqmQA-1">
-          <mxGeometry x="336" y="357" width="231" height="54" as="geometry" />
+        <mxCell id="l-vPg-0R3UOiEQVzqmQA-4" value="&lt;h1&gt;An ideal room for couples&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;fillStyle=auto;fontSize=10;fontColor=#000000;align=left;verticalAlign=middle;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="l-vPg-0R3UOiEQVzqmQA-1">
+          <mxGeometry x="335.5" y="353" width="264.5" height="54" as="geometry" />
         </mxCell>
         <mxCell id="l-vPg-0R3UOiEQVzqmQA-5" value="Do eiusmod tempor incididunt ut labore et dolore magna aliqua." style="text;strokeColor=none;fillColor=none;spacing=5;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;fillStyle=auto;fontSize=10;fontColor=#000000;align=left;verticalAlign=middle;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="l-vPg-0R3UOiEQVzqmQA-1">
           <mxGeometry x="336" y="411" width="174" height="32" as="geometry" />
@@ -715,6 +715,30 @@
         </mxCell>
         <mxCell id="yog67DvxbNowsbG5vZL8-27" value="Ask us anything" style="text;strokeColor=none;fillColor=none;spacing=5;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;fillStyle=auto;fontSize=10;fontColor=#000000;align=center;verticalAlign=middle;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontStyle=1" vertex="1" parent="l-vPg-0R3UOiEQVzqmQA-1">
           <mxGeometry x="558.5" y="1059.5" width="145" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="yog67DvxbNowsbG5vZL8-30" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/core-ui-outlined/32/outlined_log_in-128.png;fillStyle=auto;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontSize=10;fontColor=#666666;strokeColor=#CCCCCC;strokeWidth=1;fillColor=#F0F0F0;" vertex="1" parent="l-vPg-0R3UOiEQVzqmQA-1">
+          <mxGeometry x="122" y="680" width="16.5" height="16.5" as="geometry" />
+        </mxCell>
+        <mxCell id="yog67DvxbNowsbG5vZL8-31" value="Check-in from 14:00" style="text;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontSize=10;fontColor=#666666;" vertex="1" parent="l-vPg-0R3UOiEQVzqmQA-1">
+          <mxGeometry x="147" y="680" width="110" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="yog67DvxbNowsbG5vZL8-32" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/core-ui-outlined/32/outlined_log_out-128.png;fillStyle=auto;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontSize=10;fontColor=#666666;strokeColor=#CCCCCC;strokeWidth=1;fillColor=#F0F0F0;" vertex="1" parent="l-vPg-0R3UOiEQVzqmQA-1">
+          <mxGeometry x="122.5" y="703" width="16" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="yog67DvxbNowsbG5vZL8-33" value="Check-out until 11:00" style="text;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontSize=10;fontColor=#666666;" vertex="1" parent="l-vPg-0R3UOiEQVzqmQA-1">
+          <mxGeometry x="147" y="703" width="113" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="yog67DvxbNowsbG5vZL8-35" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/shopping-elements-6/64/18-Food_and_Drink-128.png;fillStyle=auto;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontSize=10;fontColor=#666666;strokeColor=#CCCCCC;strokeWidth=1;fillColor=#F0F0F0;" vertex="1" parent="l-vPg-0R3UOiEQVzqmQA-1">
+          <mxGeometry x="122" y="736.5" width="21" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="yog67DvxbNowsbG5vZL8-36" value="Breakfast is served &#xa;from 7:30 to 11:00" style="text;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontSize=10;fontColor=#666666;" vertex="1" parent="l-vPg-0R3UOiEQVzqmQA-1">
+          <mxGeometry x="147" y="737.5" width="103" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="yog67DvxbNowsbG5vZL8-38" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/female-styles/500/woman-cap-128.png;fillStyle=auto;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontSize=10;fontColor=#666666;strokeColor=#CCCCCC;strokeWidth=1;fillColor=#F0F0F0;" vertex="1" parent="l-vPg-0R3UOiEQVzqmQA-1">
+          <mxGeometry x="123" y="643" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yog67DvxbNowsbG5vZL8-39" value="24/7 Reception" style="text;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontSize=10;fontColor=#666666;" vertex="1" parent="l-vPg-0R3UOiEQVzqmQA-1">
+          <mxGeometry x="148.5" y="645" width="87" height="16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
