@@ -1,113 +1,269 @@
-<mxfile host="app.diagrams.net" modified="2022-01-25T16:35:22.393Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="zmQq6Heif8mtpb91vHas" version="16.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-25T20:03:20.769Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="nv-X9qb9kkTKBoJTc1gX" version="16.0.2" type="github" pages="2">
   <diagram id="iC9L2IepNd6SiwxDMmZm" name="Page-1">
-    <mxGraphModel dx="1293" dy="722" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1202" dy="676" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="s7BR-FdzugFDjaAT5jqf-72" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#E6E6E6;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#333333;rotation=-90;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="s7BR-FdzugFDjaAT5jqf-72" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#E6E6E6;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#333333;rotation=-90;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="44" y="561" width="128" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="s7BR-FdzugFDjaAT5jqf-71" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#E6E6E6;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#333333;rotation=-90;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="s7BR-FdzugFDjaAT5jqf-71" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#E6E6E6;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#333333;rotation=-90;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="44" y="434" width="128" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="s7BR-FdzugFDjaAT5jqf-1" value="&lt;h1&gt;Instagram Content Plan&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="1">
+        <mxCell id="s7BR-FdzugFDjaAT5jqf-1" value="&lt;h1&gt;Instagram Content Plan&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" parent="1" vertex="1">
           <mxGeometry x="78" y="74" width="290" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="s7BR-FdzugFDjaAT5jqf-2" value="Version 1.22" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#330066;" vertex="1" parent="1">
+        <mxCell id="s7BR-FdzugFDjaAT5jqf-2" value="Version 1.22" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#330066;" parent="1" vertex="1">
           <mxGeometry x="371" y="81" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="s7BR-FdzugFDjaAT5jqf-70" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#E6E6E6;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#333333;rotation=-90;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="s7BR-FdzugFDjaAT5jqf-70" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#E6E6E6;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#333333;rotation=-90;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="36" y="298" width="144" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="s7BR-FdzugFDjaAT5jqf-27" value="Common idea for all - Create desire" style="shape=table;childLayout=tableLayout;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#330066;html=0;sketch=1;swimlaneLine=1;" vertex="1" parent="1">
-          <mxGeometry x="88" y="206" width="1371" height="439" as="geometry" />
+        <mxCell id="s7BR-FdzugFDjaAT5jqf-27" value="Common idea for all - Create desire" style="shape=table;childLayout=tableLayout;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#330066;html=0;sketch=1;swimlaneLine=1;" parent="1" vertex="1">
+          <mxGeometry x="149" y="212" width="1714" height="438.7721252441406" as="geometry" />
         </mxCell>
-        <mxCell id="s7BR-FdzugFDjaAT5jqf-28" value="What to post" style="shape=tableRow;horizontal=0;startSize=40;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;fillColor=none;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#330066;html=0;labelBackgroundColor=none;" vertex="1" parent="s7BR-FdzugFDjaAT5jqf-27">
-          <mxGeometry y="40" width="1371" height="144" as="geometry" />
+        <mxCell id="s7BR-FdzugFDjaAT5jqf-28" value="What to post" style="shape=tableRow;horizontal=0;startSize=40;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;fillColor=none;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#330066;labelBackgroundColor=none;verticalAlign=middle;align=center;" parent="s7BR-FdzugFDjaAT5jqf-27" vertex="1">
+          <mxGeometry y="40" width="1714" height="144" as="geometry" />
         </mxCell>
-        <mxCell id="s7BR-FdzugFDjaAT5jqf-29" value="Stories " style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#330066;html=0;" vertex="1" parent="s7BR-FdzugFDjaAT5jqf-28">
-          <mxGeometry x="40" width="333" height="144" as="geometry">
-            <mxRectangle width="333" height="144" as="alternateBounds" />
+        <mxCell id="qcURlVUuRapGuX-t_eES-1" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#330066;html=0;" vertex="1" parent="s7BR-FdzugFDjaAT5jqf-28">
+          <mxGeometry width="46" height="144" as="geometry">
+            <mxRectangle width="46" height="144" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s7BR-FdzugFDjaAT5jqf-43" value="&lt;ul&gt;&lt;li&gt;Show new products (video)&lt;/li&gt;&lt;li&gt;Show packaging (video/image)&lt;/li&gt;&lt;li&gt;New post (with the poll)&lt;/li&gt;&lt;li&gt;Ask questions if they liked recent post/reel&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#330066;" vertex="1" parent="s7BR-FdzugFDjaAT5jqf-29">
-          <mxGeometry y="40" width="326" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="s7BR-FdzugFDjaAT5jqf-30" value="images" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#330066;html=0;" vertex="1" parent="s7BR-FdzugFDjaAT5jqf-28">
-          <mxGeometry x="373" width="332" height="144" as="geometry">
-            <mxRectangle width="332" height="144" as="alternateBounds" />
+        <mxCell id="s7BR-FdzugFDjaAT5jqf-29" value="Stories " style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#330066;html=0;" parent="s7BR-FdzugFDjaAT5jqf-28" vertex="1">
+          <mxGeometry x="46" width="640" height="144" as="geometry">
+            <mxRectangle width="640" height="144" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s7BR-FdzugFDjaAT5jqf-46" value="&lt;ul&gt;&lt;li&gt;Emphasize products in addition to outfit/style (Show product details)&lt;/li&gt;&lt;li&gt;Use 4-8 photos&lt;/li&gt;&lt;li&gt;&quot;Mix &amp;amp; Match&quot; (2-3/post is better than 1/post)&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#330066;" vertex="1" parent="s7BR-FdzugFDjaAT5jqf-30">
+        <mxCell id="s7BR-FdzugFDjaAT5jqf-43" value="&lt;ul&gt;&lt;li&gt;Show new products (video)&lt;/li&gt;&lt;li&gt;Show packaging (video/image)&lt;/li&gt;&lt;li&gt;New post (with the poll)&lt;/li&gt;&lt;li&gt;Ask questions if they liked recent post/reel&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#330066;" parent="s7BR-FdzugFDjaAT5jqf-29" vertex="1">
+          <mxGeometry x="39" y="42" width="303" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="s7BR-FdzugFDjaAT5jqf-30" value="images" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#330066;html=0;" parent="s7BR-FdzugFDjaAT5jqf-28" vertex="1">
+          <mxGeometry x="686" width="342" height="144" as="geometry">
+            <mxRectangle width="342" height="144" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s7BR-FdzugFDjaAT5jqf-46" value="&lt;ul&gt;&lt;li&gt;Emphasize products in addition to outfit/style (Show product details)&lt;/li&gt;&lt;li&gt;Use 4-8 photos&lt;/li&gt;&lt;li&gt;&quot;Mix &amp;amp; Match&quot; (2-3/post is better than 1/post)&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#330066;" parent="s7BR-FdzugFDjaAT5jqf-30" vertex="1">
           <mxGeometry y="42" width="326" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="s7BR-FdzugFDjaAT5jqf-31" value="Reels" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#330066;html=0;" vertex="1" parent="s7BR-FdzugFDjaAT5jqf-28">
-          <mxGeometry x="705" width="333" height="144" as="geometry">
-            <mxRectangle width="333" height="144" as="alternateBounds" />
+        <mxCell id="s7BR-FdzugFDjaAT5jqf-31" value="Reels" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#330066;html=0;" parent="s7BR-FdzugFDjaAT5jqf-28" vertex="1">
+          <mxGeometry x="1028" width="343" height="144" as="geometry">
+            <mxRectangle width="343" height="144" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s7BR-FdzugFDjaAT5jqf-40" value="Description" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#330066;html=0;" vertex="1" parent="s7BR-FdzugFDjaAT5jqf-28">
-          <mxGeometry x="1038" width="333" height="144" as="geometry">
-            <mxRectangle width="333" height="144" as="alternateBounds" />
+        <mxCell id="s7BR-FdzugFDjaAT5jqf-40" value="Description" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#330066;html=0;" parent="s7BR-FdzugFDjaAT5jqf-28" vertex="1">
+          <mxGeometry x="1371" width="343" height="144" as="geometry">
+            <mxRectangle width="343" height="144" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s7BR-FdzugFDjaAT5jqf-32" value="How to attract" style="shape=tableRow;horizontal=0;startSize=40;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;fillColor=none;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#330066;html=0;" vertex="1" parent="s7BR-FdzugFDjaAT5jqf-27">
-          <mxGeometry y="184" width="1371" height="127" as="geometry" />
+        <mxCell id="s7BR-FdzugFDjaAT5jqf-32" value="How to attract" style="shape=tableRow;horizontal=0;startSize=40;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;fillColor=none;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#330066;verticalAlign=top;align=center;" parent="s7BR-FdzugFDjaAT5jqf-27" vertex="1">
+          <mxGeometry y="184" width="1714" height="127" as="geometry" />
         </mxCell>
-        <mxCell id="s7BR-FdzugFDjaAT5jqf-33" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#330066;html=0;" vertex="1" parent="s7BR-FdzugFDjaAT5jqf-32">
-          <mxGeometry x="40" width="333" height="127" as="geometry">
-            <mxRectangle width="333" height="127" as="alternateBounds" />
+        <mxCell id="qcURlVUuRapGuX-t_eES-2" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#330066;html=0;" vertex="1" parent="s7BR-FdzugFDjaAT5jqf-32">
+          <mxGeometry width="46" height="127" as="geometry">
+            <mxRectangle width="46" height="127" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s7BR-FdzugFDjaAT5jqf-44" value="&lt;ul&gt;&lt;li&gt;Add text to videos (New drop, DM me for more info, Just arrived, Get it before it&#39;s gone, &quot;M&quot; size available, Free shipping for this item)&lt;/li&gt;&lt;li&gt;Add &quot;Yes/No&quot; polls (Do you like this outfit?, Would you wear this?)&lt;/li&gt;&lt;li&gt;Rate this jacket/outfit (Fire/It&#39;s Okay)&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#330066;" vertex="1" parent="s7BR-FdzugFDjaAT5jqf-33">
+        <mxCell id="s7BR-FdzugFDjaAT5jqf-33" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#330066;html=0;" parent="s7BR-FdzugFDjaAT5jqf-32" vertex="1">
+          <mxGeometry x="46" width="640" height="127" as="geometry">
+            <mxRectangle width="640" height="127" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s7BR-FdzugFDjaAT5jqf-44" value="&lt;ul&gt;&lt;li&gt;Add text to videos (New drop, DM me for more info, Just arrived, Get it before it&#39;s gone, &quot;M&quot; size available, Free shipping for this item)&lt;/li&gt;&lt;li&gt;Add &quot;Yes/No&quot; polls (Do you like this outfit?, Would you wear this?)&lt;/li&gt;&lt;li&gt;Rate this jacket/outfit (Fire/It&#39;s Okay)&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#330066;" parent="s7BR-FdzugFDjaAT5jqf-33" vertex="1">
+          <mxGeometry x="42" width="301" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="s7BR-FdzugFDjaAT5jqf-34" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#330066;html=0;" parent="s7BR-FdzugFDjaAT5jqf-32" vertex="1">
+          <mxGeometry x="686" width="342" height="127" as="geometry">
+            <mxRectangle width="342" height="127" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s7BR-FdzugFDjaAT5jqf-69" value="&lt;ul&gt;&lt;li&gt;Outfit photo first, detail pictures next&lt;/li&gt;&lt;li&gt;Avoid monotone feed - mix different post types&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#330066;" parent="s7BR-FdzugFDjaAT5jqf-34" vertex="1">
           <mxGeometry width="326" height="114" as="geometry" />
         </mxCell>
-        <mxCell id="s7BR-FdzugFDjaAT5jqf-34" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#330066;html=0;" vertex="1" parent="s7BR-FdzugFDjaAT5jqf-32">
-          <mxGeometry x="373" width="332" height="127" as="geometry">
-            <mxRectangle width="332" height="127" as="alternateBounds" />
+        <mxCell id="s7BR-FdzugFDjaAT5jqf-35" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#330066;html=0;" parent="s7BR-FdzugFDjaAT5jqf-32" vertex="1">
+          <mxGeometry x="1028" width="343" height="127" as="geometry">
+            <mxRectangle width="343" height="127" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s7BR-FdzugFDjaAT5jqf-69" value="&lt;ul&gt;&lt;li&gt;Outfit photo first, detail pictures next&lt;/li&gt;&lt;li&gt;Avoid monotone feed - mix different post types&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#330066;" vertex="1" parent="s7BR-FdzugFDjaAT5jqf-34">
+        <mxCell id="s7BR-FdzugFDjaAT5jqf-41" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#330066;html=0;" parent="s7BR-FdzugFDjaAT5jqf-32" vertex="1">
+          <mxGeometry x="1371" width="343" height="127" as="geometry">
+            <mxRectangle width="343" height="127" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s7BR-FdzugFDjaAT5jqf-36" value="Extra Tips" style="shape=tableRow;horizontal=0;startSize=40;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;fillColor=none;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#330066;html=0;" parent="s7BR-FdzugFDjaAT5jqf-27" vertex="1">
+          <mxGeometry y="311" width="1714" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="qcURlVUuRapGuX-t_eES-3" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#330066;html=0;" vertex="1" parent="s7BR-FdzugFDjaAT5jqf-36">
+          <mxGeometry width="46" height="128" as="geometry">
+            <mxRectangle width="46" height="128" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s7BR-FdzugFDjaAT5jqf-37" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#330066;html=0;" parent="s7BR-FdzugFDjaAT5jqf-36" vertex="1">
+          <mxGeometry x="46" width="640" height="128" as="geometry">
+            <mxRectangle width="640" height="128" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s7BR-FdzugFDjaAT5jqf-45" value="&lt;ul&gt;&lt;li&gt;Spread them 3-4 times a day&lt;/li&gt;&lt;li&gt;Add voice or captions to videos&lt;/li&gt;&lt;li&gt;Tag products / add link to clochard92.com&lt;/li&gt;&lt;li&gt;Try to answer to story reactions too&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#330066;" parent="s7BR-FdzugFDjaAT5jqf-37" vertex="1">
           <mxGeometry width="326" height="114" as="geometry" />
         </mxCell>
-        <mxCell id="s7BR-FdzugFDjaAT5jqf-35" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#330066;html=0;" vertex="1" parent="s7BR-FdzugFDjaAT5jqf-32">
-          <mxGeometry x="705" width="333" height="127" as="geometry">
-            <mxRectangle width="333" height="127" as="alternateBounds" />
+        <mxCell id="s7BR-FdzugFDjaAT5jqf-38" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#330066;html=0;" parent="s7BR-FdzugFDjaAT5jqf-36" vertex="1">
+          <mxGeometry x="686" width="342" height="128" as="geometry">
+            <mxRectangle width="342" height="128" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s7BR-FdzugFDjaAT5jqf-41" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#330066;html=0;" vertex="1" parent="s7BR-FdzugFDjaAT5jqf-32">
-          <mxGeometry x="1038" width="333" height="127" as="geometry">
-            <mxRectangle width="333" height="127" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="s7BR-FdzugFDjaAT5jqf-36" value="Extra Tips" style="shape=tableRow;horizontal=0;startSize=40;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;fillColor=none;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#330066;html=0;" vertex="1" parent="s7BR-FdzugFDjaAT5jqf-27">
-          <mxGeometry y="311" width="1371" height="128" as="geometry" />
-        </mxCell>
-        <mxCell id="s7BR-FdzugFDjaAT5jqf-37" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#330066;html=0;" vertex="1" parent="s7BR-FdzugFDjaAT5jqf-36">
-          <mxGeometry x="40" width="333" height="128" as="geometry">
-            <mxRectangle width="333" height="128" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="s7BR-FdzugFDjaAT5jqf-45" value="&lt;ul&gt;&lt;li&gt;Spread them 3-4 times a day&lt;/li&gt;&lt;li&gt;Add voice or captions to videos&lt;/li&gt;&lt;li&gt;Tag products / add link to clochard92.com&lt;/li&gt;&lt;li&gt;Try to answer to story reactions too&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#330066;" vertex="1" parent="s7BR-FdzugFDjaAT5jqf-37">
-          <mxGeometry width="326" height="114" as="geometry" />
-        </mxCell>
-        <mxCell id="s7BR-FdzugFDjaAT5jqf-38" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#330066;html=0;" vertex="1" parent="s7BR-FdzugFDjaAT5jqf-36">
-          <mxGeometry x="373" width="332" height="128" as="geometry">
-            <mxRectangle width="332" height="128" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="s7BR-FdzugFDjaAT5jqf-47" value="&lt;ul&gt;&lt;li&gt;Post 3-4 times a week&amp;nbsp;&lt;/li&gt;&lt;li&gt;Tag products (up to 3)&lt;/li&gt;&lt;li&gt;Tag other brands too&lt;/li&gt;&lt;li&gt;Use image &quot;alt&quot; tags&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#330066;" vertex="1" parent="s7BR-FdzugFDjaAT5jqf-38">
+        <mxCell id="s7BR-FdzugFDjaAT5jqf-47" value="&lt;ul&gt;&lt;li&gt;Post 3-4 times a week&amp;nbsp;&lt;/li&gt;&lt;li&gt;Tag products (up to 3)&lt;/li&gt;&lt;li&gt;Tag other brands too&lt;/li&gt;&lt;li&gt;Use image &quot;alt&quot; tags&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#330066;" parent="s7BR-FdzugFDjaAT5jqf-38" vertex="1">
           <mxGeometry y="2" width="326" height="114" as="geometry" />
         </mxCell>
-        <mxCell id="s7BR-FdzugFDjaAT5jqf-39" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#330066;html=0;" vertex="1" parent="s7BR-FdzugFDjaAT5jqf-36">
-          <mxGeometry x="705" width="333" height="128" as="geometry">
-            <mxRectangle width="333" height="128" as="alternateBounds" />
+        <mxCell id="s7BR-FdzugFDjaAT5jqf-39" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#330066;html=0;" parent="s7BR-FdzugFDjaAT5jqf-36" vertex="1">
+          <mxGeometry x="1028" width="343" height="128" as="geometry">
+            <mxRectangle width="343" height="128" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s7BR-FdzugFDjaAT5jqf-42" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#330066;html=0;" vertex="1" parent="s7BR-FdzugFDjaAT5jqf-36">
-          <mxGeometry x="1038" width="333" height="128" as="geometry">
-            <mxRectangle width="333" height="128" as="alternateBounds" />
+        <mxCell id="s7BR-FdzugFDjaAT5jqf-42" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#330066;html=0;" parent="s7BR-FdzugFDjaAT5jqf-36" vertex="1">
+          <mxGeometry x="1371" width="343" height="128" as="geometry">
+            <mxRectangle width="343" height="128" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="kDBp14IIiyGrWXP1oTkE" name="Page-2">
+    <mxGraphModel dx="1202" dy="676" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="FddHL1FzdwZLvdFBpgaq-0" />
+        <mxCell id="FddHL1FzdwZLvdFBpgaq-1" parent="FddHL1FzdwZLvdFBpgaq-0" />
+        <mxCell id="FddHL1FzdwZLvdFBpgaq-2" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;html=0;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;sketch=1;" vertex="1" parent="FddHL1FzdwZLvdFBpgaq-1">
+          <mxGeometry x="36" y="74" width="1116" height="517" as="geometry" />
+        </mxCell>
+        <mxCell id="FddHL1FzdwZLvdFBpgaq-3" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=0;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="FddHL1FzdwZLvdFBpgaq-2">
+          <mxGeometry width="1116" height="129" as="geometry" />
+        </mxCell>
+        <mxCell id="FddHL1FzdwZLvdFBpgaq-4" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="FddHL1FzdwZLvdFBpgaq-3">
+          <mxGeometry width="49" height="129" as="geometry">
+            <mxRectangle width="49" height="129" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FddHL1FzdwZLvdFBpgaq-5" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="FddHL1FzdwZLvdFBpgaq-3">
+          <mxGeometry x="49" width="398" height="129" as="geometry">
+            <mxRectangle width="398" height="129" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FddHL1FzdwZLvdFBpgaq-6" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="FddHL1FzdwZLvdFBpgaq-3">
+          <mxGeometry x="447" width="222" height="129" as="geometry">
+            <mxRectangle width="222" height="129" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FddHL1FzdwZLvdFBpgaq-7" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="FddHL1FzdwZLvdFBpgaq-3">
+          <mxGeometry x="669" width="223" height="129" as="geometry">
+            <mxRectangle width="223" height="129" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FddHL1FzdwZLvdFBpgaq-8" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="FddHL1FzdwZLvdFBpgaq-3">
+          <mxGeometry x="892" width="224" height="129" as="geometry">
+            <mxRectangle width="224" height="129" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FddHL1FzdwZLvdFBpgaq-9" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=0;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="FddHL1FzdwZLvdFBpgaq-2">
+          <mxGeometry y="129" width="1116" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="FddHL1FzdwZLvdFBpgaq-10" value="&lt;span&gt;What to Post&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#E6E6E6;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;horizontal=0;fontColor=#333333;strokeColor=#666666;sketch=1;fontStyle=1" vertex="1" parent="FddHL1FzdwZLvdFBpgaq-9">
+          <mxGeometry width="49" height="130" as="geometry">
+            <mxRectangle width="49" height="130" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FddHL1FzdwZLvdFBpgaq-11" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="FddHL1FzdwZLvdFBpgaq-9">
+          <mxGeometry x="49" width="398" height="130" as="geometry">
+            <mxRectangle width="398" height="130" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FddHL1FzdwZLvdFBpgaq-12" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="FddHL1FzdwZLvdFBpgaq-9">
+          <mxGeometry x="447" width="222" height="130" as="geometry">
+            <mxRectangle width="222" height="130" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FddHL1FzdwZLvdFBpgaq-13" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="FddHL1FzdwZLvdFBpgaq-9">
+          <mxGeometry x="669" width="223" height="130" as="geometry">
+            <mxRectangle width="223" height="130" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FddHL1FzdwZLvdFBpgaq-14" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="FddHL1FzdwZLvdFBpgaq-9">
+          <mxGeometry x="892" width="224" height="130" as="geometry">
+            <mxRectangle width="224" height="130" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FddHL1FzdwZLvdFBpgaq-15" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=0;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="FddHL1FzdwZLvdFBpgaq-2">
+          <mxGeometry y="259" width="1116" height="129" as="geometry" />
+        </mxCell>
+        <mxCell id="FddHL1FzdwZLvdFBpgaq-16" value="How to attract" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#E6E6E6;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;horizontal=0;strokeColor=#666666;fontColor=#333333;sketch=1;fontStyle=1;" vertex="1" parent="FddHL1FzdwZLvdFBpgaq-15">
+          <mxGeometry width="49" height="129" as="geometry">
+            <mxRectangle width="49" height="129" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FddHL1FzdwZLvdFBpgaq-17" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="FddHL1FzdwZLvdFBpgaq-15">
+          <mxGeometry x="49" width="398" height="129" as="geometry">
+            <mxRectangle width="398" height="129" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FddHL1FzdwZLvdFBpgaq-18" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="FddHL1FzdwZLvdFBpgaq-15">
+          <mxGeometry x="447" width="222" height="129" as="geometry">
+            <mxRectangle width="222" height="129" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FddHL1FzdwZLvdFBpgaq-19" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="FddHL1FzdwZLvdFBpgaq-15">
+          <mxGeometry x="669" width="223" height="129" as="geometry">
+            <mxRectangle width="223" height="129" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FddHL1FzdwZLvdFBpgaq-20" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="FddHL1FzdwZLvdFBpgaq-15">
+          <mxGeometry x="892" width="224" height="129" as="geometry">
+            <mxRectangle width="224" height="129" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FddHL1FzdwZLvdFBpgaq-21" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=0;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="FddHL1FzdwZLvdFBpgaq-2">
+          <mxGeometry y="388" width="1116" height="129" as="geometry" />
+        </mxCell>
+        <mxCell id="FddHL1FzdwZLvdFBpgaq-22" value="Extra Tips" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#E6E6E6;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;horizontal=0;strokeColor=#666666;fontColor=#333333;sketch=1;fontStyle=1;" vertex="1" parent="FddHL1FzdwZLvdFBpgaq-21">
+          <mxGeometry width="49" height="129" as="geometry">
+            <mxRectangle width="49" height="129" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FddHL1FzdwZLvdFBpgaq-23" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="FddHL1FzdwZLvdFBpgaq-21">
+          <mxGeometry x="49" width="398" height="129" as="geometry">
+            <mxRectangle width="398" height="129" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FddHL1FzdwZLvdFBpgaq-24" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="FddHL1FzdwZLvdFBpgaq-21">
+          <mxGeometry x="447" width="222" height="129" as="geometry">
+            <mxRectangle width="222" height="129" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FddHL1FzdwZLvdFBpgaq-25" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="FddHL1FzdwZLvdFBpgaq-21">
+          <mxGeometry x="669" width="223" height="129" as="geometry">
+            <mxRectangle width="223" height="129" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FddHL1FzdwZLvdFBpgaq-26" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;" vertex="1" parent="FddHL1FzdwZLvdFBpgaq-21">
+          <mxGeometry x="892" width="224" height="129" as="geometry">
+            <mxRectangle width="224" height="129" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MeJjoqN09yzrWAvQG4RL-0" value="&lt;ul&gt;&lt;li&gt;Show new products (video)&lt;/li&gt;&lt;li&gt;Show packaging (video/image)&lt;/li&gt;&lt;li&gt;New post (with the poll)&lt;/li&gt;&lt;li&gt;Ask questions if they liked recent post/reel&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#330066;" vertex="1" parent="FddHL1FzdwZLvdFBpgaq-1">
+          <mxGeometry x="234" y="294" width="303" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="MeJjoqN09yzrWAvQG4RL-1" value="&lt;ul&gt;&lt;li&gt;Emphasize products in addition to outfit/style (Show product details)&lt;/li&gt;&lt;li&gt;Use 4-8 photos&lt;/li&gt;&lt;li&gt;&quot;Mix &amp;amp; Match&quot; (2-3/post is better than 1/post)&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#330066;" vertex="1" parent="FddHL1FzdwZLvdFBpgaq-1">
+          <mxGeometry x="835" y="294" width="326" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="MeJjoqN09yzrWAvQG4RL-2" value="&lt;ul&gt;&lt;li&gt;Add text to videos (New drop, DM me for more info, Just arrived, Get it before it&#39;s gone, &quot;M&quot; size available, Free shipping for this item)&lt;/li&gt;&lt;li&gt;Add &quot;Yes/No&quot; polls (Do you like this outfit?, Would you wear this?)&lt;/li&gt;&lt;li&gt;Rate this jacket/outfit (Fire/It&#39;s Okay)&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#330066;" vertex="1" parent="FddHL1FzdwZLvdFBpgaq-1">
+          <mxGeometry x="237" y="396" width="301" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="MeJjoqN09yzrWAvQG4RL-3" value="&lt;ul&gt;&lt;li&gt;Outfit photo first, detail pictures next&lt;/li&gt;&lt;li&gt;Avoid monotone feed - mix different post types&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#330066;" vertex="1" parent="FddHL1FzdwZLvdFBpgaq-1">
+          <mxGeometry x="835" y="396" width="326" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="MeJjoqN09yzrWAvQG4RL-4" value="&lt;ul&gt;&lt;li&gt;Spread them 3-4 times a day&lt;/li&gt;&lt;li&gt;Add voice or captions to videos&lt;/li&gt;&lt;li&gt;Tag products / add link to clochard92.com&lt;/li&gt;&lt;li&gt;Try to answer to story reactions too&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#330066;" vertex="1" parent="FddHL1FzdwZLvdFBpgaq-1">
+          <mxGeometry x="195" y="523" width="326" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="MeJjoqN09yzrWAvQG4RL-5" value="&lt;ul&gt;&lt;li&gt;Post 3-4 times a week&amp;nbsp;&lt;/li&gt;&lt;li&gt;Tag products (up to 3)&lt;/li&gt;&lt;li&gt;Tag other brands too&lt;/li&gt;&lt;li&gt;Use image &quot;alt&quot; tags&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;fontFamily=Be Vietnam Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBe%2BVietnam%2BPro;fontColor=#330066;" vertex="1" parent="FddHL1FzdwZLvdFBpgaq-1">
+          <mxGeometry x="835" y="525" width="326" height="114" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
